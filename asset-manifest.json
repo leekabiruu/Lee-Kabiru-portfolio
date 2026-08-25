@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Lee-Kabiru-portfolio/static/css/main.41b74611.css",
-    "main.js": "/Lee-Kabiru-portfolio/static/js/main.53229917.js",
+    "main.js": "/Lee-Kabiru-portfolio/static/js/main.42cccbcb.js",
     "index.html": "/Lee-Kabiru-portfolio/index.html",
     "main.41b74611.css.map": "/Lee-Kabiru-portfolio/static/css/main.41b74611.css.map",
-    "main.53229917.js.map": "/Lee-Kabiru-portfolio/static/js/main.53229917.js.map"
+    "main.42cccbcb.js.map": "/Lee-Kabiru-portfolio/static/js/main.42cccbcb.js.map"
   },
   "entrypoints": [
     "static/css/main.41b74611.css",
-    "static/js/main.53229917.js"
+    "static/js/main.42cccbcb.js"
   ]
 }
