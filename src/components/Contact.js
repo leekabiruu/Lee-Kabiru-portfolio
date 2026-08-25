@@ -14,6 +14,7 @@ function Contact() {
         <div className="contact-list">
           <span>email <a href="mailto:devkabirukinyua@gmail.com">devkabirukinyua@gmail.com</a></span>
           <span>github <a href="https://github.com/leekabiruu" target="_blank" rel="noreferrer">github.com/leekabiruu</a></span>
+          <span>instagram <a href="https://instagram.com/devkabiru" target="_blank" rel="noreferrer">@devkabiru</a></span> 
           <span>phone <a href="tel:+254794175578">0794 175 578</a></span>
         </div>
       </div>
