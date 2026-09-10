@@ -1,8 +1,6 @@
 import React from 'react';
 
-// Edit / add to this array as you build more projects.
-// Placeholder entries (isPlaceholder: true) render as dashed cards
-// so it's obvious they still need real content.
+
 const projects = [
   {
     title: 'Nairobi Budget Butchery',
@@ -12,11 +10,11 @@ const projects = [
     isPlaceholder: false,
   },
   {
-    title: 'Project Two',
-    desc: 'Swap this with a real project: what it does, who it\u2019s for, and the problem it solves.',
-    tags: ['Stack', 'Here'],
-    url: '#',
-    isPlaceholder: true,
+    title: 'SnaxBite',
+    desc: 'An e-commerce site for a Kenyan snack brand — crisps, popcorn and masala peanuts. Includes a build-a-box shop flow, a flavour explorer, pricing tables, and a trade page for shops and distributors.',
+    tags: ['React', 'Vercel'], // double-check / adjust to your actual stack
+    url: 'https://snaxbite.vercel.app/',
+    isPlaceholder: false,
   },
   {
     title: 'Project Three',
